@@ -4,8 +4,12 @@
 cff-version: 1.2.0
 title: Offer Trin Iaith/Language Manipulation Tools
 message: >-
-  If you wish to cite this software, please do so
-  using these metadata.
+  Er ein bod yn rhyddhau'r data hwn o dan drwydded
+  MIT, gofynwn yn garedig i chi ystyried rhoi
+  cydnabyddiaeth i'r gwaith hwn. | While we are
+  releasing this data under the MIT licence, should
+  you use this resource, we kindly ask you to
+  consider acknowledging our work.
 type: software
 authors:
   - given-names: Gruffudd

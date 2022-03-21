@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Offer Trin Iaith/Language Manipulation Tools
+message: >-
+  If you wish to cite this software, please do so
+  using these metadata.
+type: software
+authors:
+  - given-names: Gruffudd
+    family-names: Prys
+    email: g.prys@bangor.ac.uk
+    affiliation: Bangor University Language Technologies Unit
+    orcid: 'https://orcid.org/0000-0002-2910-2460'
+abstract: >-
+  Offer ar gyfer hwyluso trin agweddau o destunau
+  Cymraeg, er enghraifft treigladau ac ati | Tools
+  for facilitating the manipulation of Welsh texts,
+  including mutation.
+keywords:
+  - Welsh
+  - Tools
+license: MIT
+version: '20.10'
+date-released: '2021-10-28'
